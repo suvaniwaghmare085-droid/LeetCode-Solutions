@@ -8,6 +8,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/suvaniwaghmare085-droid/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0054-spiral-matrix](https://github.com/suvaniwaghmare085-droid/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,4 +55,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/suvaniwaghmare085-droid/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/suvaniwaghmare085-droid/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/suvaniwaghmare085-droid/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
