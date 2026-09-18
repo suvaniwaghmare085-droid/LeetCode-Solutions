@@ -8,12 +8,14 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/suvaniwaghmare085-droid/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/suvaniwaghmare085-droid/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/suvaniwaghmare085-droid/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 ## Two Pointers
 |  |
 | ------- |
 | [0018-4sum](https://github.com/suvaniwaghmare085-droid/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suvaniwaghmare085-droid/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/suvaniwaghmare085-droid/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Sorting
 |  |
 | ------- |
