@@ -31,10 +31,12 @@
 | [0022-generate-parentheses](https://github.com/suvaniwaghmare085-droid/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suvaniwaghmare085-droid/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/suvaniwaghmare085-droid/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/suvaniwaghmare085-droid/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/suvaniwaghmare085-droid/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/suvaniwaghmare085-droid/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/suvaniwaghmare085-droid/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/suvaniwaghmare085-droid/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -109,4 +112,8 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/suvaniwaghmare085-droid/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/suvaniwaghmare085-droid/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
