@@ -14,6 +14,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/suvaniwaghmare085-droid/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suvaniwaghmare085-droid/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/suvaniwaghmare085-droid/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/suvaniwaghmare085-droid/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/suvaniwaghmare085-droid/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 ## Two Pointers
 |  |
@@ -74,6 +75,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/suvaniwaghmare085-droid/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/suvaniwaghmare085-droid/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
@@ -111,6 +113,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/suvaniwaghmare085-droid/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/suvaniwaghmare085-droid/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 ## Sliding Window
 |  |
 | ------- |
